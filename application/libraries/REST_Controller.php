@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @category        Libraries
  * @author          Trivialworks
  * @license         MIT
- * @link            https://github.com/jaykaypee/codeigniter-secure-rest-server
+ * @link            https://github.com/rahul-trivialworks/codeIgniter-rest-api.git
  * @version         3.0.0
  */
 abstract class REST_Controller extends CI_Controller {

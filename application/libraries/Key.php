@@ -9,7 +9,7 @@
  * @subpackage          Key
  * @category            Library
  * @author		trivialworks
- * @link		http://trivialworks.com
+ * @link		https://github.com/rahul-trivialworks/codeIgniter-rest-api.git
 */
 
 // This can be removed if you use __autoload() in config.php

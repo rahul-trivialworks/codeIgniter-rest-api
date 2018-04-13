@@ -12,7 +12,7 @@ require APPPATH . '/libraries/REST_Controller.php';
  * @category        Controller
  * @author          Trivialworks
  * @license         MIT
- * @link            https://github.com/jaykaypee/codeigniter-secure-rest-server
+ * @link            https://github.com/rahul-trivialworks/codeIgniter-rest-api.git
  */
 class Authentication extends REST_Controller {
     
